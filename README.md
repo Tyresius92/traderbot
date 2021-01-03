@@ -1,6 +1,6 @@
 # TraderBot
 
-TraderBot is an algorithmic stock trading bot. It was written as an exercise to see how a trading bot worked, and explore possibilities for one day starting some kind of investing financial service (a la Betterment or Wealthfront).
+TraderBot is an algorithmic stock trading bot. It was written as an exercise to see how a trading bot worked, and explore possibilities for one day working at or starting some kind of investing financial service (a la Betterment or Wealthfront).
 
 ## What I learned
 
