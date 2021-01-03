@@ -4,7 +4,9 @@ TraderBot is an algorithmic stock trading bot. It was written as an exercise to 
 
 ## What I learned
 
-I'd be interested in working in FinTech, but I would definitely not want to be doing any kind of short term algorithmic trading. I've definitely confirmed for myself that I am a long term buy and hold investor. Betterment, Wealthfront, Blooom, hit me up. Hedge fund folks, I'll pass. 
+I'd be interested in working in FinTech, but I would definitely not want to be doing any kind of short term algorithmic trading. I've definitely confirmed for myself that I am a long term buy and hold investor. 
+
+Betterment, Wealthfront, Blooom, hit me up. Hedge fund folks, I'll pass. 
 
 ## Provisos, Warnings, Gotchas, etc.
 
